@@ -1,0 +1,28 @@
+name: Los Angeles x Clltve
+favicon: null
+layout_spectrum: 0.23482225835323334
+typography_spectrum: 0.7673829486593604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9216897992882878
+  lightness: 0.04085941147059202
+  saturation: 0.7390180602669716
+  rhythmicContrast: 0.42774395481683314
+purpose: []
